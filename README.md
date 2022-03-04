@@ -6,4 +6,4 @@
 
 ## Project URL (Expo)
 
-    https://expo.io/@johnzenith/projects/health-app-ui
+    [https://expo.io/@johnzenith/projects/health-app-ui]
