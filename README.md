@@ -1,9 +1,9 @@
 # health-app-ui
 
-## Software used
+## Technologies used
 
     - Expo, React Native
 
 ## Project URL (Expo)
 
-    https://expo.io/@/projects/health-app-ui
+    https://expo.io/@johnzenith/projects/health-app-ui
